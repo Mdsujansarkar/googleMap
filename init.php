@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Our Google Map
-Plugin URI:#
+Plugin URI:https://github.com/Mdsujansarkar/googleMap/
 Description: It helps to show google map.
 Version: 1.0
 Author: Sujan
-Author URI:#
+Author URI:https://www.facebook.com/sujan1miya
 License: GPLv2 or later
 Text Domain: google-map
 Domain Path: /languages/
